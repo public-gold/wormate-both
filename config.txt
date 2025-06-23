@@ -1,0 +1,4 @@
+Server=wss://fra-c.wormate.io:32095/wormy
+TotalBot=1500
+BotName=PHOENIX
+Delay=10
