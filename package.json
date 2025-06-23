@@ -1,0 +1,14 @@
+{
+  "name": "wormate-bot",
+  "version": "1.0.0",
+  "description": "Bot massal untuk Wormate.io WebSocket Server",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "public-gold",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.17.0"
+  }
+}
